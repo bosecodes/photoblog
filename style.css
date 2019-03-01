@@ -1,0 +1,27 @@
+body{
+	background-image: url(img/j.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 500px;
+}
+.head{
+	font-family: Major Mono Display,arial;
+	font-size: 45px;
+	color: white;
+	letter-spacing: 2px;
+	float: center;
+	padding-bottom: 20px;
+	border-bottom: 3px solid beige;
+	width: 40%;
+}
+.spacing{
+	padding-bottom: 15px;
+}
+img{
+	width: 450px;
+	float: center;
+	height: 350px;
+	margin: 1%;
+	border-radius: 5% 10% 5% 10%;
+}
